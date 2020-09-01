@@ -23,12 +23,15 @@ main {
     line-height: 1;
     text-align: center;
     font-family: "Roboto";
+    padding-top: 15px;
+    letter-spacing: 1.5;
 }
 
 .my-name-is {
     color: #FFE66D;
     font-size: 1.2rem;
     text-align: center;
+    vertical-align: middle;
 }
 
 .top {
