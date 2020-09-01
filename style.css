@@ -1,3 +1,15 @@
+body {
+    background: lightblue;
+    font-family: "roboto";
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+
+
+
 main {
     background: #FF6B6B;
     border-radius: 5px; 
@@ -31,6 +43,10 @@ main {
     color: #4ECDC4;
     font-family: 'Cedarville Cursive', cursive;
     font-size: 75px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
 }
  
 .bottom {
