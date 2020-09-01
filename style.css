@@ -1,0 +1,39 @@
+main {
+    background: #FF6B6B;
+    border-radius: 5px; 
+    width: 375px;
+    size: 120px;
+}
+
+.hello {
+    color: #FFE66D;
+    font-size: 4rem;
+    line-height: 1;
+    text-align: center;
+    font-family: "Roboto";
+}
+
+.my-name-is {
+    color: #FFE66D;
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+.top {
+    height: 120px;  
+    font-family: "Roboto";
+}
+
+.middle {
+    background: #F7FFF7;
+    height: 115px;
+    text-align: center;
+    color: #4ECDC4;
+    font-family: 'Cedarville Cursive', cursive;
+    font-size: 75px;
+}
+ 
+.bottom {
+    height: 20px;
+}
+
