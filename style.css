@@ -37,7 +37,6 @@ main {
 
 .top {
     height: 120px;  
-    font-family: "Roboto";
 }
 
 .middle {
@@ -51,6 +50,10 @@ main {
     display: flex;
     justify-content: center;
 
+}
+
+.change {
+    justify-content: center;
 }
  
 .bottom {
